@@ -1,4 +1,4 @@
-# OOP-Lab-assignment-2_source_code
+# A project of OOP Laboratory 
 OOP Lab assignment-2
 Name : MD Ashik
 ID : 011201123
